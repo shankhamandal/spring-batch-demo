@@ -1,0 +1,12 @@
+Student 1,20,S-1001
+Student 2,22,S-1002
+Student 3,20,S-1003
+Student 4,22,S-1004
+Student 5,20,S-1005
+Student 6,22,S-1006
+Student 7,20,S-1007
+Student 8,22,S-1008
+Student 9,20,S-1009
+Student 10,22,S-1010
+Student 11,20,S-1011
+Student 12,22,S-1012
